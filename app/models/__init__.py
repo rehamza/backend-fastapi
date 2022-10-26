@@ -1,0 +1,1 @@
+from .ShortUrlModel import ShortUrl ,Base

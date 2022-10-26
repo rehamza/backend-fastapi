@@ -1,0 +1,11 @@
+version: "2.10.2"
+services:
+  backend:
+    container_name: python
+    build:
+      context: "."
+      dockerfile: Dockerfile
+    volumes:
+      - "/app"
+    ports:
+      - 8000:8000
