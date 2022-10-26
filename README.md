@@ -3,7 +3,7 @@ this is home task
 
 # Project run instruction
 
-docker-compose up --build      run via docker
+docker-compose up --build      --------------run via docker
 
 or
 
